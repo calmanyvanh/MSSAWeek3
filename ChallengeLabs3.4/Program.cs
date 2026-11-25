@@ -41,6 +41,16 @@ class Program
 {
     static void Main()
     {
+        string s = "ABFCACDB";
 
+
+        while (s.IndexOf("AB") != -1 || s.IndexOf("CD") != -1)
+        {
+            s = s.Replace("AB", "");
+            s = s.Replace("CD", "");
+          
+        }
+        Console.WriteLine(s);
     }
+
 }

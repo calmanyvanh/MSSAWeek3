@@ -1,0 +1,16 @@
+C:\Users\calma\source\repos\ChallengeLabs3.4\bin\Debug\net10.0\ChallengeLabs3.4.exe
+C:\Users\calma\source\repos\ChallengeLabs3.4\bin\Debug\net10.0\ChallengeLabs3.4.deps.json
+C:\Users\calma\source\repos\ChallengeLabs3.4\bin\Debug\net10.0\ChallengeLabs3.4.runtimeconfig.json
+C:\Users\calma\source\repos\ChallengeLabs3.4\bin\Debug\net10.0\ChallengeLabs3.4.runtimeconfig.dev.json
+C:\Users\calma\source\repos\ChallengeLabs3.4\bin\Debug\net10.0\ChallengeLabs3.4.dll
+C:\Users\calma\source\repos\ChallengeLabs3.4\bin\Debug\net10.0\ChallengeLabs3.4.pdb
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\ChallengeLabs3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\ChallengeLabs3.4.AssemblyInfoInputs.cache
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\ChallengeLabs3.4.AssemblyInfo.cs
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\ChallengeLabs3.4.csproj.CoreCompileInputs.cache
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\ChallengeLabs3.4.dll
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\refint\ChallengeLabs3.4.dll
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\ChallengeLabs3.4.pdb
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\ChallengeLabs3.4.genruntimeconfig.cache
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\ref\ChallengeLabs3.4.dll
+C:\Users\calma\source\repos\ChallengeLabs3.4\obj\Debug\net10.0\Challeng.E5C6749B.Up2Date

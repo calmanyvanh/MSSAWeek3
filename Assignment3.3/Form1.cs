@@ -1,8 +1,8 @@
-/* 
+/*
 Windows form assignments
 
     Use different controls on windows forms and change their properties (do not submit this assignment)
-    Create a class: Student with fields like studid, firstname, lastname, address, monthofadmission, and grade to hold character.
+    Create a class: Student with fields like studid, firstname, lastname, address, monthofadmission, grade to hold character.
 
 Create a list of students and perform following operations in windows application:
 
@@ -14,33 +14,32 @@ Monthofadmission should be enum.
 */
 
 
-using System.ComponentModel;
-
-
-namespace DataGrid
+namespace Assignment3._3
 {
     public partial class Form1 : Form
     {
-        private DataGridView
+
+        List<Student> students = new List<Student>();
+
         public Form1()
         {
             InitializeComponent();
-
-            List<Person> persons = new List<Person>();
-            persons.Add(new Person() { Name = "Bob", Surname = "Smith" });
-            persons.Add(new Person() { Name = "asda", Surname = "Sgsd" });
-            persons.Add(new Person() { Name = "dgsg", Surname = "sdgs" });
-            persons.Add(new Person() { Name = "dgsa", Surname = "dsgh" });
-
-            var bindingList = new BindingList<Person>(persons);
-            var source = new BindingSource(bindingList, null);
-            dataGridView1.DataSource = source;
         }
-    }
 
-    class Person
-    {
-        public string Name { get; set; }
-        public string Surname { get; set; }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = students; 
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

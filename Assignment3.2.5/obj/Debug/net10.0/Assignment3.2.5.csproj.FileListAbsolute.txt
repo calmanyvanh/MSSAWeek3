@@ -1,0 +1,32 @@
+C:\Users\calma\source\repos\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.exe
+C:\Users\calma\source\repos\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.deps.json
+C:\Users\calma\source\repos\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.runtimeconfig.json
+C:\Users\calma\source\repos\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.runtimeconfig.dev.json
+C:\Users\calma\source\repos\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.dll
+C:\Users\calma\source\repos\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.pdb
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.AssemblyInfoInputs.cache
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.AssemblyInfo.cs
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.csproj.CoreCompileInputs.cache
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.dll
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\refint\Assignment3.2.5.dll
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.pdb
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.genruntimeconfig.cache
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\ref\Assignment3.2.5.dll
+C:\Users\calma\source\repos\Assignment3.2.5\obj\Debug\net10.0\Assignme.A8F4CA86.Up2Date
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.exe
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.deps.json
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.runtimeconfig.json
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.runtimeconfig.dev.json
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.dll
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\bin\Debug\net10.0\Assignment3.2.5.pdb
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.AssemblyInfoInputs.cache
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.AssemblyInfo.cs
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.csproj.CoreCompileInputs.cache
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.dll
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\refint\Assignment3.2.5.dll
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.pdb
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\Assignment3.2.5.genruntimeconfig.cache
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\ref\Assignment3.2.5.dll
+C:\MSSA Assignments\MSSAWeek3\Assignment3.2.5\obj\Debug\net10.0\Assignme.A8F4CA86.Up2Date
